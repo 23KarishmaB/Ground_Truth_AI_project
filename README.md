@@ -1,4 +1,5 @@
-H-001 Automated Insight Engine
+H-001 Automated Insight Engine 
+Track:Data Engineering and Analytics
 1. Overview
 
 This project implements an Automated Insight Engine that analyzes the Spotify Tracks Dataset (Kaggle) and generates an executive-level PowerPoint report with visualizations and optional AI-generated insights.
@@ -219,5 +220,6 @@ pip install -r requirements.txt
 CSV not found
 
 File must be located at:
+
 
 data/spotify_tracks.csv
