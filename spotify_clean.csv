@@ -1,0 +1,4 @@
+track_name,artist_name,release_date,popularity,danceability,energy,duration_ms,year,duration_min
+Song A,Artist X,2020-01-01,80,0.7,0.8,210000,2020,3.5
+Song B,Artist Y,2018-06-12,65,0.5,0.6,190000,2018,3.1666666666666665
+Song C,Artist X,2019-03-20,72,0.6,0.7,200000,2019,3.3333333333333335
